@@ -27,4 +27,4 @@
 
 - Everything：极致搜索体验
 - Typora：简洁优雅的 Markdown 编辑器
-- 
+- [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)：PDF阅读，小而快
