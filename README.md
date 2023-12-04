@@ -1,5 +1,11 @@
 # set-up-the-development-environment
 
+## Vim
+
+- [.vimrc](./Vim/.vimrc)
+
+> 这是我的个人 Vim 配置文件，目前刚刚能用，待继续优化。
+
 ## Python
 
 - [Win-Python3](./Python/Win-Python3.md)
